@@ -66,7 +66,7 @@ ruben = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🔐 Phishing Website Detection](https://github.com/rubenmartogi/Phishing-Website-Detection-using-XGBoost-and-RFM) | Deteksi URL phishing menggunakan XGBoost & RFM dengan 17 fitur dari Phishtank | Python, XGBoost, Jupyter | ✅ Active |
+| [🔐 Phishing Website Detection](https://github.com/rubenmartogi/Phishing-Website-Detection-using-XGBoost-and-RFM) | Deteksi URL phishing menggunakan XGBoost & RFM dengan Rulebased Filtering | Python, XGBoost, Jupyter | ✅ Active |
 | [🔍 STBI — BM25 vs LM](https://github.com/rubenmartogi/STBI_Project_Kel6) | Analisis komparatif algoritma Information Retrieval: BM25 vs Language Model | Python, Jupyter | ✅ Active |
 | [☕ PPW Cafe](https://github.com/herisitompul/ppw_cafe) | Web app cafe — kolaborasi tim | HTML, CSS | 🤝 Collab |
 
